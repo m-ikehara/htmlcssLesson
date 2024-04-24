@@ -1,0 +1,39 @@
+body {
+	background-color: #99FFCC;
+}
+
+div {
+	background-color: #CCCCCC;
+}
+
+.header {
+	background-color: #FF0000;
+}
+
+.footer {
+	background-color: #000FF;
+}
+
+.sub {
+	background-color: #FF00FF;
+}
+
+#sub1 {
+	color: #FF00CC;
+}
+
+#sub2 {
+	color: #FF0099;
+}
+
+#sub3 {
+	color: #FF0055;
+}
+
+#sub4 {
+	color: #FF0000;
+}
+
+.content p {
+	color: #AA00FF;
+}
